@@ -27,7 +27,7 @@ elif resul1 >= 36 and resul1 <= 48:
     resul1 -= 36
     print(f"O horário de saída foi: {resul1}:{resul2}")
 
-elif resul1 >= 48:
+elif resul1 <= 48:
     resul1 -= 48
     print(f"O horário de saída foi: {resul1}:{resul2}")
 
