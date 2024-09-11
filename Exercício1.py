@@ -1,0 +1,7 @@
+nome = input("Digite o Primeiro Nome: ")
+nome2 = input("Digite o Segundo Nome: ")
+nome3 = input("Digite o Terceiro Nome: ")
+print("O nome dos Senhores são:",nome,",",nome2,",",nome3)
+print("O nome do Primeiro é:",nome)
+print("O nome do Segundo é:",nome2)
+print("O nome do Terceiro é:",nome3)
